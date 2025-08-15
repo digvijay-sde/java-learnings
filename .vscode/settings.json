@@ -1,0 +1,12 @@
+{
+  "files.autoSave": "afterDelay",
+  "git.enableSmartCommit": true,
+
+  "emeraldwalk.runonsave": {
+    "commands": [
+      { "match": ".*\\.java$", "cmd": "git add ." },
+      { "match": ".*\\.java$", "cmd": "git commit -m \"auto: save\"" },
+      { "match": ".*\\.java$", "cmd": "git push origin main" }
+    ]
+  }
+}
