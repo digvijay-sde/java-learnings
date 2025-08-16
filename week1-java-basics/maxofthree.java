@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class maxofthree {
-     system.
+     System.
           
     
 }
