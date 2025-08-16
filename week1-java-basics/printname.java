@@ -1,3 +1,4 @@
 public class main(){
-    ps
+    psvm
+    
 }
