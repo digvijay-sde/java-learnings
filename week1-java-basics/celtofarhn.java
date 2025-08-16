@@ -10,7 +10,7 @@ public class celtofarhn {
         float celsius = sc.nextFloat();
         float farhenite = (celsius*9)/5 + (32);
 
-        System.out.println("the temperature in farhenite is:"+farhenite+"F
+        System.out.println("the temperature in farhenite is:"+farhenite+"F"
         
         
     }
