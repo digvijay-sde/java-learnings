@@ -22,7 +22,8 @@ public class areaper{
         double length = sc.nextDouble();
         System.out.println("enter breadth:");
         double breadth = sc.nextDouble();
-        double permiter = 2*length*
+        double permiter = 2*length*breadth;
+        
 
         
     }
