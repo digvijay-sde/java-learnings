@@ -26,6 +26,7 @@ public class areaper{
         double area2 = length*breadth;
 
         System.out.println("area od rectangle:"+area2+"permieter of rectangle:"+permiter2);
+        
 
         
     }
