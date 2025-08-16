@@ -1,3 +1,3 @@
 public class main(){
-    psv
+    psvm static void main(String[] args) {
 }
