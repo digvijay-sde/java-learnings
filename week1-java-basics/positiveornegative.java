@@ -15,7 +15,7 @@ public class positiveornegative{
             System.out.println("The number is positive");
         }
         else{
-            System.out.println("The number is negative")
+            System.out.println("The number is negative");
         }
 
     }
