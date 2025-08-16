@@ -3,7 +3,7 @@ public class maxofthree {
      System.out.println("enter your numbers:");
      int a = sc.nextInt();
      int b = sc.nextInt();
-     int c = sc/
+     int c = sc.next
           
     
 }
