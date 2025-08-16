@@ -10,6 +10,7 @@ public class oddoreven {
 
         if(number%2==0){
             System.out.println(number+"is even number");
+            
         }
         
     }
