@@ -20,7 +20,7 @@ public class areaper{
         System.out.println("area of rectangle:");
         System.out.println("enter length:");
         double length = sc.nextDouble();
-
+        System.out.println();
         double breadth = sc.nextDouble();
 
         
