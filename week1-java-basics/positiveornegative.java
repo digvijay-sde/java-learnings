@@ -7,7 +7,7 @@ public class positiveornegative{
 
         int number = sc.nextInt();
 
-        System.out.println("Enter your number:");
+        
 
         if(number==0){
             System.out.println("The number is zero,neither positive or negative");
