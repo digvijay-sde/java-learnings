@@ -8,7 +8,7 @@ public class celtofarhn {
         System.out.println("Enter temperature in celsius:");
 
         float celsius = sc.nextFloat();
-        
+        float 
         
         
     }
