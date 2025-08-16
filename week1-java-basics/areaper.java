@@ -10,7 +10,7 @@ public class areaper{
         System.out.println("area of circle:");
         System.out.println("enter radius:");
 
-        dou radius = sc.nextFloat();
+        double radius = sc.nextFloat();
         double pi = Math.PI;
         float area = pi*radius*radius;
         float permiter = 2*pi*radius;
