@@ -1,3 +1,5 @@
 public class oddoreven {
-    psv
+    public static void main(String[] args) {
+        
+    }
 }
