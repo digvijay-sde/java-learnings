@@ -5,7 +5,7 @@ public class celtofarhn {
         
 
         Scanner sc = new Scanner(System.in);
-        
+        sout
         
         
     }
