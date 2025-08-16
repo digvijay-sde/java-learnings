@@ -1,5 +1,5 @@
 import java.util.Scanner;
-import java.lang.ath;
+import java.lang.Math;
 
 public class areaper{
     public static void main(String[] args) {
