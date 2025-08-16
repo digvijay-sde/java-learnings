@@ -2,6 +2,7 @@ public class add2nums {
     public static void main(String[] args) {
         int a =10;
         int b =20;
-        int su
+        int sum = a=b;
+        System.out.println();
     }
 }
