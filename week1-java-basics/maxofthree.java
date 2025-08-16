@@ -1,5 +1,6 @@
 import java.util.Scanner;
 public class maxofthree {
-      System.out.println("Enter your number:")
+      System.out.println("Enter your number:");
+      
     
 }
