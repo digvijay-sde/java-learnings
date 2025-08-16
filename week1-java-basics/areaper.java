@@ -18,7 +18,7 @@ public class areaper{
         System.out.println("area of circle is"+area+"\nperimter of circle is:"+permiter);
         
         System.out.println("area of rectangle:");
-        
+        System.out.println("enter length");
         
 
         
