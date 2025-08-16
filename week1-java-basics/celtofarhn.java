@@ -6,6 +6,8 @@ public class celtofarhn {
 
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter temperature in celsius:");
+
+        
         
         
     }
