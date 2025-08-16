@@ -10,6 +10,7 @@ public class celtofarhn {
         float celsius = sc.nextFloat();
         
         
+        
     }
 
 }
