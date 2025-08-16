@@ -10,7 +10,7 @@ public class maxofthree {
      int c = sc.nextInt();
      
      
-
+      
           
     
 }
