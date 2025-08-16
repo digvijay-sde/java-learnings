@@ -1,5 +1,5 @@
 import java.util.Scanner;
 public class maxofthree {
-      System.out
+      System.out.p
     
 }
