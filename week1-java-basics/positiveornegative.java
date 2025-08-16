@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class positiveornegative{
+public class Positiveornegative{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter your number:");
