@@ -8,7 +8,7 @@ public class oddoreven {
         
         int number = sc.nextInt();
 
-        if(number)
+        if(number%2)
         
     }
 }
