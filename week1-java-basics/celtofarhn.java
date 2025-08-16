@@ -9,6 +9,8 @@ public class celtofarhn {
 
         float celsius = sc.nextFloat();
         float farhenite = (celsius*9)/5 + (32);
+
+        
         
         
     }
