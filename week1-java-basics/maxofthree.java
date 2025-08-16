@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class maxofthree {
 
-     System.outprintln("enter your numbers:");
+     System.out.println("enter your numbers:");
 
      Scanner sc = new Scanner(System.in);
 
