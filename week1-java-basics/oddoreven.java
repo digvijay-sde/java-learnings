@@ -6,7 +6,7 @@ public class oddoreven {
 
         System.out.println("enter the number to check:");
         
-        int number = sc.
+        int number = sc.nextInt()
         
     }
 }
