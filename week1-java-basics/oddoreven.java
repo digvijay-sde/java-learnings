@@ -5,7 +5,7 @@ public class oddoreven {
         Scanner sc = new Scanner(System.in);
 
         System.out.println("enter the number to check:");
-         
+        
         
     }
 }
