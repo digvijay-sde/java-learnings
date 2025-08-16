@@ -19,7 +19,7 @@ public class areaper{
         
         System.out.println("area of rectangle:");
         System.out.println("enter length:");
-        
+        double length 
         
 
         
