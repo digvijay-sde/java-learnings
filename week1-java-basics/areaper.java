@@ -12,7 +12,7 @@ public class areaper{
 
         double radius = sc.nextFloat();
         double pi = Math.PI;
-        doubele area = pi*radius*radius;
+        double area = pi*radius*radius;
         float permiter = 2*pi*radius;
 
         System.out.println("area of circle is"+area+"\nperimter of circle is:"+permiter);
