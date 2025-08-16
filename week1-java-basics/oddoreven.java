@@ -13,7 +13,7 @@ public class oddoreven {
 
         }
         else{
-            System.out.println();
+            System.out.println(number);
         }
         
     }
