@@ -13,7 +13,7 @@ public class oddoreven {
 
         }
         else{
-            System.out.println(number);
+            System.out.println(number+"is odd number");
         }
         
     }
