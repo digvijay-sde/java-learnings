@@ -19,6 +19,7 @@ public class maxofthree {
         System.out.println("c is the maximum");
      }
      
+    }
 
      
       
