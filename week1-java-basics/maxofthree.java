@@ -9,7 +9,7 @@ public class maxofthree {
      int b = sc.nextInt();
      int c = sc.nextInt();
 
-     if(a>b && b)
+     if(a>b && b>c)
      
 
      
