@@ -8,7 +8,8 @@ public class buzznumber {
         System.out.println("enter your number:");
 
         int number = sc.nextInt();
-        String str = String.valueof(number
+        String str = String.valueof(number);
+        
 
     }
 }
