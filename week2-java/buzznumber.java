@@ -11,6 +11,7 @@ public class buzznumber {
         String str = String.valueof(number);
 
         char ch = '7';
+        
 
 
         if(number%7==0 || str.charAt()
