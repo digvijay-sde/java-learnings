@@ -29,6 +29,6 @@ public class gradingsystem {
         else{
             System.out.println("Enter valid marks");
         }
-        sout
+        System.out.println();
     }
 }
