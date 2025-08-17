@@ -7,6 +7,6 @@ public class milestokilo {
         Scanner sc = new Scanner(System.in);
 
         double miles = sc.nextDouble();
-        double kilo = 0.621
+        double kilo = 0.621*
     }
 }
