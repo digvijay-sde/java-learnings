@@ -13,6 +13,9 @@ public class leapyearcheck {
         else if(year%4==0 && year%100!=0){
             System.out.println("its a leap year");
         }
+        else{
+            System.out.println("its not a leap year");
+        }
 
     }
 }
