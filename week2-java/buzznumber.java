@@ -13,7 +13,7 @@ public class buzznumber {
         char ch = '7';
 
 
-        if(number%7==0 || str.charAt(ch)
+        if(number%7==0 || str.charAt()
 
     }
 }
