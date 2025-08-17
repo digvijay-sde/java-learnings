@@ -1,5 +1,5 @@
 import java.util.Scanner;
-impoi
+import java
 
 public class buzznumber {
 
