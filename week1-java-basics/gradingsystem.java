@@ -7,7 +7,7 @@ public class gradingsystem {
         System.out.println("Grading system:\n"+"Enter your marks percentage:");
 
         float marks = sc.nextFloat();
-        if (marks>=90 &) {
+        if (marks>=90 && marks<) {
             System.out.println("Grade A");
             
         }
