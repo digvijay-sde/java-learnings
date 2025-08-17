@@ -18,7 +18,7 @@ public class gradingsystem {
             System.out.println("Grade C");
         }
         else if(marks>=60){
-            System.out.println("Grade ");
+            System.out.println("Grade D");
         }
     }
 }
