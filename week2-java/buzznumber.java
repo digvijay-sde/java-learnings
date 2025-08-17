@@ -9,5 +9,6 @@ public class buzznumber {
 
         int number = sc.nextInt();
         
+
     }
 }
