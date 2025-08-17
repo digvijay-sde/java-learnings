@@ -23,6 +23,6 @@ public class gradingsystem {
         else if(marks>=40){
             System.out.println("Grade E");
         }
-        else if(marks<4)
+        else if(marks<40)
     }
 }
