@@ -10,7 +10,7 @@ public class buzznumber {
         int number = sc.nextInt();
         String str = String.valueof(number);
 
-        char ch = ''
+        char ch = '7
 
         if(number%7==0 || 
 
