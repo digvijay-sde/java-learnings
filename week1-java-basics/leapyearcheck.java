@@ -1,5 +1,5 @@
 public class leapyearcheck {
     public static void main(String[] args) {
-        sou
+        System.out.println("enter your ");
     }
 }
