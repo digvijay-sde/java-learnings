@@ -5,6 +5,6 @@ public class swap2numbers {
         System.out.println("enter two numbers:");
         Scanner sc = new Scanner(System.in);
 
-        
+        int a = 
     }
 }
