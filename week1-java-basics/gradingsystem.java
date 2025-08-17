@@ -24,7 +24,7 @@ public class gradingsystem {
             System.out.println("Grade E");
         }
         else if(marks<40){
-            System.out.println("");
+            System.out.println("Grade F");
         }
     }
 }
