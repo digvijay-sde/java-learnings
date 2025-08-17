@@ -13,6 +13,6 @@ public class swap2numbers {
         a=b;
         b=temp;
 
-        System.out.println("numb");
+        System.out.println("number 1 is");
     }
 }
