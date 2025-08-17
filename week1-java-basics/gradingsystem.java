@@ -26,5 +26,8 @@ public class gradingsystem {
         else if(marks<40){
             System.out.println("Grade F");
         }
+        else{
+            System.out.println("Enter valid");
+        }
     }
 }
