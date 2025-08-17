@@ -9,6 +9,6 @@ public class swap2numbers {
         int b = sc.nextInt();
 
         int temp;
-        temp 
+        temp =a;
     }
 }
