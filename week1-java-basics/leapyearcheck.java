@@ -3,7 +3,7 @@ public class leapyearcheck {
         System.out.println("enter your year:");
         Scanner sc = new Scanner(System.in);
 
-        
+        int year = 
 
     }
 }
