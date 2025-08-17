@@ -10,7 +10,7 @@ public class maxofthree {
      int c = sc.nextInt();
 
      if(a>b && b>c){
-        System.out.println("a");
+        System.out.println("a is the grratest");
      }
      
 
