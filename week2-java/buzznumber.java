@@ -9,6 +9,7 @@ public class buzznumber {
 
         int number = sc.nextInt();
         String str = String.valueof(number);
+
         
 
     }
