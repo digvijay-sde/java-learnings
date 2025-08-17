@@ -27,7 +27,7 @@ public class gradingsystem {
             System.out.println("Grade F");
         }
         else{
-            System.out.println("Enter valid");
+            System.out.println("Enter valid marks");
         }
     }
 }
