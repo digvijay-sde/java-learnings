@@ -7,7 +7,7 @@ public class leapyearcheck {
 
         int year = sc.nextInt();
 
-        if()
+        if(year)
 
     }
 }
