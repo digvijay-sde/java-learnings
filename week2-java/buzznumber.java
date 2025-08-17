@@ -18,7 +18,7 @@ public class buzznumber {
             System.out.println("its a buzz number");
         }
         else{
-            
+            soo
         }
 
 
