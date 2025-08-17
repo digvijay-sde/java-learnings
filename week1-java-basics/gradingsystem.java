@@ -4,6 +4,6 @@ public class gradingsystem {
         Scanner sc - new Scanner(System.in);
         System.out.println("Grading system:\n"+"Enter your marks percentage:");
 
-        float 
+        float makrs 
     }
 }
