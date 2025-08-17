@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class buzznumber {
 
     public static void main(String[] args) {
@@ -5,6 +7,6 @@ public class buzznumber {
         Scanner sc = new Scanner(System.in);
         System.out.println("enter your number:");
 
-        int number = sc.
+        int number = sc.nextInt()
     }
 }
