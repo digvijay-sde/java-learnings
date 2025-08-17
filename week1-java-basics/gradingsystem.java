@@ -20,6 +20,6 @@ public class gradingsystem {
         else if(marks>=60){
             System.out.println("Grade D");
         }
-        else
+        else if
     }
 }
