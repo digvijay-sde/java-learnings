@@ -15,7 +15,7 @@ public class buzznumber {
         int len = str.length();
 
 
-        if(number%7==0 || str.charAt(len-1)==){
+        if(number%7==0 || str.charAt(len-1)==''){
             System.out.println("its a buzz number");
         }
         else{
