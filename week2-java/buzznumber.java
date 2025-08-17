@@ -7,6 +7,7 @@ public class buzznumber {
         Scanner sc = new Scanner(System.in);
         System.out.println("enter your number:");
 
-        int number = sc.nextInt()
+        int number = sc.nextInt();
+        
     }
 }
