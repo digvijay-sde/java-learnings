@@ -7,7 +7,7 @@ public class divisibleby5 {
         int number = sc.nextInt();
 
         if(number%5==0){
-            
+            System.out.println("divisble by 5");
         }
     }
 }
