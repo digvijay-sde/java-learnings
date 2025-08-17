@@ -6,6 +6,7 @@ public class milestokilo {
         System.out.println("enter distance in miles:");
         Scanner sc = new Scanner(System.in);
 
-        double miles = sc.nextDouble()
+        double miles = sc.nextDouble();
+        
     }
 }
