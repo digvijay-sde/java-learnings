@@ -21,7 +21,7 @@ public class gradingsystem {
             System.out.println("Grade D");
         }
         else if(marks>=40){
-            System.out.println("");
+            System.out.println("Grade E");
         }
     }
 }
