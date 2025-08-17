@@ -8,6 +8,7 @@ public class buzznumber {
         System.out.println("enter your number:");
 
         int number = sc.nextInt();
+        String str
         if(number%7==0 || )
 
     }
