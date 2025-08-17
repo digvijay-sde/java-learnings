@@ -10,8 +10,8 @@ public class leapyearcheck {
         if(year%400==0){
             System.out.println("its a leap year");
         }
-        else if(year%4==0 && year%100!==0){
-            
+        else if(year%4==0 && year%100!=0){
+
         }
 
     }
