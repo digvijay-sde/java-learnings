@@ -14,7 +14,7 @@ public class buzznumber {
         int len = str.length();
 
 
-        if(number%7==0 || str.charAt()
+        if(number%7==0 || str.charAt(len
 
     }
 }
