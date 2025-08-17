@@ -32,4 +32,5 @@ public class gradingsystem {
         }
         System.out.println("\n for"+marks+"%");
     }
+    }
 }
