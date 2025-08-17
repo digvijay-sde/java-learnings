@@ -21,6 +21,7 @@ public class maxofthree {
      else{
         System.out.println("c is the maximum");
      }
+    }
      
     }
 
