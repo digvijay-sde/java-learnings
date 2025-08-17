@@ -1,5 +1,5 @@
 import java.util.Scanner;
-import java.utig
+import java.uti
 
 public class buzznumber {
 
