@@ -17,5 +17,6 @@ public class gradingsystem {
         else if(marks>=70){
             System.out.println("Grade C");
         }
+        else
     }
 }
