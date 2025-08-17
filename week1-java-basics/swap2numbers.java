@@ -7,5 +7,7 @@ public class swap2numbers {
 
         int a = sc.nextInt();
         int b = sc.nextInt();
+
+        
     }
 }
