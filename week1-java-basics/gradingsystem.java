@@ -11,6 +11,8 @@ public class gradingsystem {
             System.out.println("Grade A");
             
         }
-        else if(marks>=80)
+        else if(marks>=80){
+            System.out.println();
+        }
     }
 }
