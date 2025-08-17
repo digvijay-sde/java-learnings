@@ -14,7 +14,7 @@ public class swap2numbers {
         b=temp;
 
         System.out.println("first no is:"+a);
-        System.out.println("second number is:"+a);
+        System.out.println("second number is:"+);
 
     }
 }
