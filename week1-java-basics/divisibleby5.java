@@ -6,6 +6,8 @@ public class divisibleby5 {
         Scanner sc = new Scanner(System.in);
         int number = sc.nextInt();
 
-        if(number%5==0){}
+        if(number%5==0){
+            
+        }
     }
 }
