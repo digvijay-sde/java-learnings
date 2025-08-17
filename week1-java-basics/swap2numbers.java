@@ -10,5 +10,7 @@ public class swap2numbers {
 
         int temp;
         temp =a;
+        a=b;
+        b=temp;
     }
 }
