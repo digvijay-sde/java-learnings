@@ -14,6 +14,6 @@ public class gradingsystem {
         else if(marks>=80){
             System.out.println("Grade B");
         }
-        else if(marks>=)
+        else if(marks>=70)
     }
 }
