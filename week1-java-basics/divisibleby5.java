@@ -1,1 +1,4 @@
-public stat
+public class divisibleby5 {
+
+    
+}
