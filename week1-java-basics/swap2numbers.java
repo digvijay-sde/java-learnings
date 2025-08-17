@@ -15,5 +15,6 @@ public class swap2numbers {
 
         System.out.println("first no is:"+b);
         System.out.println("second number is:"+a);
+        
     }
 }
