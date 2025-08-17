@@ -11,6 +11,6 @@ public class gradingsystem {
             System.out.println("Grade A");
             
         }
-        else if()
+        else if(marks>=)
     }
 }
