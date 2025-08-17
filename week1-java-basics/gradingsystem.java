@@ -33,7 +33,7 @@ public class gradingsystem {
         System.out.println("\n for"+marks+"%");
     }
     else{
-        
+        System.out.println("enter valid marks.");
     }
     }
 }
