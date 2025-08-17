@@ -8,6 +8,7 @@ public class gradingsystem {
 
         float marks = sc.nextFloat();
         if (marks>=90) {
+            System.out.println();
             
         }
     }
