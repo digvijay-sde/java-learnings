@@ -9,7 +9,7 @@ public class buzznumber {
         System.out.println("enter your number:");
 
         int number = sc.nextInt();
-        String str = String.valueO(number);
+        String str = String.valueOf(number);
 
         char ch = '7';
         int len = str.length();
