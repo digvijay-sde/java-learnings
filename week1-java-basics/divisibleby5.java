@@ -9,5 +9,8 @@ public class divisibleby5 {
         if(number%5==0){
             System.out.println("divisble by 5");
         }
+        else{
+            
+        }
     }
 }
