@@ -4,8 +4,7 @@ public class divisibleby5 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("enter your number10
-        ");
+        System.out.println("enter your number10");
         int number = sc.nextInt();
 
         if(number%5==0){
