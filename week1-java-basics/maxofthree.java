@@ -16,7 +16,7 @@ public class maxofthree {
         System.out.println("b is the greatest");
      }
      else{
-        System.out.println("c is the maximum"
+        System.out.println("c is the maximum");
      }
      
 
