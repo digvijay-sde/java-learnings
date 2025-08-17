@@ -9,6 +9,6 @@ public class milestokilo {
         double miles = sc.nextDouble();
         double kilo = 0.621*miles;
 
-        System.out.println("The distance in k");
+        System.out.println("The distance in kilometers is:");
     }
 }
