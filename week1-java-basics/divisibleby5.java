@@ -10,7 +10,7 @@ public class divisibleby5 {
             System.out.println("divisble by 5");
         }
         else{
-            
+            System.out.println("not divisble by 5");
         }
     }
 }
