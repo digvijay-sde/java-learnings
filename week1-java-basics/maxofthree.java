@@ -13,7 +13,7 @@ public class maxofthree {
         System.out.println("a is the greatest");
      }
      else if(b>a && b>c){
-        System.out.println();
+        System.out.println);
      }
      
 
